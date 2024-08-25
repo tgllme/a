@@ -13,7 +13,7 @@
                     });
 
                     function processData() {
-                        var url = 'https://linux.do/u/k452b';
+                        var url = 'https://t.me/s/tgllme';
                         window.location.href = url
                     }
                 ]]></script>
